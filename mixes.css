@@ -92,6 +92,8 @@
 .daphnie{
 
 	width: 100%;
+	display: table-cell;
+	vertical-align: middle 
 }
 
 .daphnie-img{
