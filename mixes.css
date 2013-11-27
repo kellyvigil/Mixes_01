@@ -13,8 +13,8 @@
 }
 .bondax-sc{
 	position: relative;
-	top: 50%;
-	bottom: 50%;
+	padding-top: 50%;
+	padding-bottom: 50%;
 }
 
 .jamiexx{
@@ -31,8 +31,7 @@
 }
 .jamiexx-sc{
 	position: relative;
-	top: 50%;
-	bottom: 50%;
+	top: 100px;
 	
 }
 
@@ -50,8 +49,7 @@
 }
 .rustie-sc{
 	position: relative;
-	top: 50%;
-	bottom: 50%;
+	top: 100px;
 	
 }
 
@@ -69,8 +67,7 @@
 }
 .purityring-sc{
 	position: relative;
-	top: 50%;
-	bottom: 50%;
+	top: 100px;
 	
 }
 
@@ -88,8 +85,7 @@
 }
 .TNGHT-sc{
 	position: relative;
-	top: 50%;
-	bottom: 50%;
+	top: 100px;
 	
 }
 
@@ -107,8 +103,7 @@
 }
 .daphnie-sc{
 	position: relative;
-	top: 50%;
-	bottom: 50%;
+	top: 100px;
 	
 }
 
@@ -126,7 +121,6 @@
 }
 .xxyyxx-sc{
 	position: relative;
-	top: 50%;
-	bottom: 50%;
+	top: 100px;
 	
 }
