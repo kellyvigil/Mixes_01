@@ -92,14 +92,13 @@
 .daphnie{
 
 	width: 100%;
-	display: table-cell;
-	vertical-align: middle 
 }
 
 .daphnie-img{
 	margin: 0 auto;
 	width: 100%;
-	position: ;
+	display: table-cell;
+	vertical-align: middle 
 	
 
 }
