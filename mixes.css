@@ -2,49 +2,43 @@ body{
 	margin: 0;
 }
 
+.page-title{
+	opacity: 100%;
+	margin-bottom:;
+
+}
+h1{
+	font-family:sans-serif, ;
+	text-align: center;
+}
 
 .bondax{
 	width: 100%;
 }
-
-.bondax1 img{
-	margin: 0 auto;
-	width: 100%;
-	position: ;
-
-}
-
-.bondax1 iframe{
-	float: center;
-
-}
-
+	
 .bondax-img{
 	margin: 0 auto;
 	width: 100%;
-	position: ;
-	
-
 }
+	
 .bondax-sc{
 	position: ;
 	width: 100%;
-	height: 166px;
+	height: 166px; 
 }
 
 .jamiexx{
 	width: 100%;
+
 }
 
 .jamiexx-img{
 	margin: 0 auto;
 	width: 100%;
-	position: ;
-	
-
 }
+
 .jamiexx-sc{
-	position: ;
+	position: ; 
 	width: 100%;
 	height: 166px;
 	
@@ -57,12 +51,9 @@ body{
 .rustie-img{
 	margin: 0 auto;
 	width: 100%;
-	position: ;
-	
 
 }
 .rustie-sc{
-	position: ;
 	width: 100%;
 	height: 166px;
 	
